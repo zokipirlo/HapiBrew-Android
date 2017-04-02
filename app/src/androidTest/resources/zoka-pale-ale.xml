@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RECIPES>
+  <RECIPE>
+    <NAME>Zoka Pale Ale</NAME>
+    <STYLE>
+      <STYLE_GUIDE>BJCP</STYLE_GUIDE>
+      <VERSION>1</VERSION>
+      <NAME>American Pale Ale</NAME>
+      <STYLE_LETTER>A</STYLE_LETTER>
+      <CATEGORY_NUMBER>10</CATEGORY_NUMBER>
+      <TYPE>Ale</TYPE>
+      <OG_MIN>1.045</OG_MIN>
+      <OG_MAX>1.06</OG_MAX>
+      <FG_MIN>1.01</FG_MIN>
+      <FG_MAX>1.015</FG_MAX>
+      <IBU_MIN>30.0</IBU_MIN>
+      <IBU_MAX>45.0</IBU_MAX>
+      <COLOR_MIN>5.0</COLOR_MIN>
+      <COLOR_MAX>14.0</COLOR_MAX>
+      <ABV_MIN>4.5</ABV_MIN>
+      <ABV_MAX>6.2</ABV_MAX>
+    </STYLE>
+    <FERMENTABLES>
+      <FERMENTABLE>
+        <NAME>Pale Ale (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Base Malt</TYPE>
+        <YIELD>82.05571150939322</YIELD>
+        <AMOUNT>4.0</AMOUNT>
+        <DISPLAY_AMOUNT>4.0 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.038</POTENTIAL>
+        <COLOR>3</COLOR>
+        <DISPLAY_COLOR>3 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+      <FERMENTABLE>
+        <NAME>Cara Gold (BE)</NAME>
+        <ORIGIN></ORIGIN>
+        <TYPE>Caramel/Crystal Malt</TYPE>
+        <YIELD>73.41826819261497</YIELD>
+        <AMOUNT>0.33</AMOUNT>
+        <DISPLAY_AMOUNT>0.33 kg</DISPLAY_AMOUNT>
+        <POTENTIAL>1.034</POTENTIAL>
+        <COLOR>46</COLOR>
+        <DISPLAY_COLOR>46 SRM</DISPLAY_COLOR>
+        <ADD_AFTER_BOIL></ADD_AFTER_BOIL>
+        <COARSE_FINE_DIFF></COARSE_FINE_DIFF>
+        <MOISTURE></MOISTURE>
+        <DIASTATIC_POWER></DIASTATIC_POWER>
+        <PROTEIN></PROTEIN>
+        <MAX_IN_BATCH></MAX_IN_BATCH>
+        <RECOMMEND_MASH></RECOMMEND_MASH>
+        <IBU_GAL_PER_LB></IBU_GAL_PER_LB>
+        <NOTES></NOTES>
+      </FERMENTABLE>
+    </FERMENTABLES>
+    <HOPS>
+      <HOP>
+        <NAME>Magnum (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>13.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>15.0</AMOUNT>
+        <DISPLAY_AMOUNT>15.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>60</TIME>
+        <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+        <NOTES></NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>7.0</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>10</TIME>
+        <DISPLAY_TIME>10.0 min</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>6.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>10.0</AMOUNT>
+        <DISPLAY_AMOUNT>10.0 g</DISPLAY_AMOUNT>
+        <USE>Boil</USE>
+        <FORM>Pellet</FORM>
+        <TIME>0</TIME>
+        <DISPLAY_TIME>0.0 min</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Amarillo (US)</NAME>
+        <ORIGIN>United States</ORIGIN>
+        <ALPHA>9.3</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>60.0</AMOUNT>
+        <DISPLAY_AMOUNT>60.0 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5760</TIME>
+        <DISPLAY_TIME>4 days</DISPLAY_TIME>
+        <NOTES>Popular American mid-range alpha acid variety with a unique and distinct aroma discovered growing "wild" (spontaneously) in one of their hop yards and developed by Virgil Gamache Farms in late 20th century. Also known as VGX001, its strain number. It is registered Brand VGXP01 cv.</NOTES>
+      </HOP>
+      <HOP>
+        <NAME>Cascade (NZ)</NAME>
+        <ORIGIN>New Zealand</ORIGIN>
+        <ALPHA>6.8</ALPHA>
+        <BETA></BETA>
+        <AMOUNT>60.0</AMOUNT>
+        <DISPLAY_AMOUNT>60.0 g</DISPLAY_AMOUNT>
+        <USE>Dry Hop</USE>
+        <FORM>Pellet</FORM>
+        <TIME>5760</TIME>
+        <DISPLAY_TIME>4 days</DISPLAY_TIME>
+        <NOTES>This hops origins stem from an early US breeding program circa 1956 and was the first commercially bred hop to emerge from the USDA-ARS program when released in 1972. It was bred from crossing an English Fuggle with a male selection believed to have been a crossing of Fuggle with the Russian variety Serebrianka.</NOTES>
+      </HOP>
+    </HOPS>
+    <YEASTS>
+      <YEAST>
+        <LABORATORY>Fermentis</LABORATORY>
+        <NAME>Safale S-04</NAME>
+        <TYPE>Ale</TYPE>
+        <FORM>Dry</FORM>
+        <ATTENUATION>75.0</ATTENUATION>
+      </YEAST>
+    </YEASTS>
+    <MISCS/>
+    <TYPE>All Grain</TYPE>
+    <BREWER>Zoran Smilevski</BREWER>
+    <BATCH_SIZE>20.0</BATCH_SIZE>
+    <BOIL_SIZE>7.28</BOIL_SIZE>
+    <BOIL_TIME>60</BOIL_TIME>
+    <EFFICIENCY>75.0</EFFICIENCY>
+  </RECIPE>
+</RECIPES>
